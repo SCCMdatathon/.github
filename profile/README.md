@@ -3,6 +3,7 @@
 This is the base repository for files related to the SCCM datathon. These may be consistent across years and include code, best practices, and links. 
 
 - 2023: [SCCM Datathon 2023, 5-6 Aug 2023, etc.venues, New York, New York](https://github.com/orgs/SCCMdatathon2023/)
+- 2024: [SCCM Datathon 2024, 13-14 Aug 2024, SCCM Headquarters, Chicago, IL](https://github.com/SCCMdatathon2024/)
 <!-- ## Hi there 👋 -->
 
 <!--
